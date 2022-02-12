@@ -13,6 +13,7 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
     ABOUT_TXT = """<b>➥ My name: {}
 ➥ Creator: <a href='https://t.me/HAZARD_77'>Տᕼᗩ__</a>
+➥ Dev: <a href='https://t.me/TEAM_KERALA'>ᖴᑌᑕK Oᖴᖴ</a>
 ➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
 ➥ Language: Python 𝟹
 ➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
@@ -20,14 +21,14 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 ➥ Build Status: v2.0.1 [ Beta ]"""
 
     SOURCE_TXT = """<b>Source:</b>
-IMDb is a Open source project.
+ᑎOT Oᑭᗴᑎᗴᗪ ՏOᑌᖇᑕᗴ ᑕOᗪᗴ.
 Source: <a href='https://github.com/TEAM-FLUFFY/FluffyV1'>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+- <a href='https://t.me/TEAM_KERALA'>ᖴᑌᑕK Oᖴᖴ</a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/+vfT7k71gb9Q2OTAx'>ՏᑌᑭᑭOᖇT</a>"""
+- <a href='https://t.me/movies_hub_group_2022'>ՏᑌᑭᑭOᖇT</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
